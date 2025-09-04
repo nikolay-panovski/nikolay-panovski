@@ -12,10 +12,10 @@ Time and pressure play their role on actual projects. So, no sugarcoating about 
 - ✏️ **[Writeups](https://nikolay-panovski.github.io/docs/492686_Panovski_Nikolay_AR_GameFeel_Poster.pdf) [(at least two)](https://github.com/nikolay-panovski/TTT_EmbedInCPP/wiki/Embedded-Languages-(a-report-on-Lua-and-JavaScript-in-CPP-for-simulation-of-game-modding))**: Desk research and documentation are exciting to me, so I provide. Lots.
 
 
-When I don't code for games (or tools), I play some. My favourites inspire me to do more with them - like mod them and reference their design in my own works. Such are Super Mario 64 and Binding of Isaac, to name a few.
+When I don't code for games (or tools), I play some. My favourites inspire me to do more with them - like mod them and reference their design in my own works. Such are *Super Mario 64* and *Binding of Isaac*, to name a few.
 
 
-My "stacks" have been mostly C#/Unity and JavaScript/NodeJS. However, I've explored diverse technologies in projects - like C++, Lua, RFID, MQTT, many APIs. *Why don't we find out together what needs to be the next of "my languages" and "my stack"?*
+My "stacks" have been mostly **C#/Unity** and **JavaScript/NodeJS**. However, I've explored diverse technologies in projects - like **C++, Lua, RFID, MQTT, many APIs**. *Why don't we find out together what needs to be the next of "my languages" and "my stack"?*
 
 
 Currently, I split my personal/hobby Git activities to a separate account. My internship and work experience also have a slightly different scope. If these are relevant to you, contact me at nikipanovski@gmail.com for more information!
