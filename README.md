@@ -1,6 +1,4 @@
-**Welcome to my digital notebook of projects!**
-
-<br />
+### Welcome to my digital notebook of projects!
 
 I like learning how things tick and making fun, intuitive experiences for people. Thus, my interests are in:
 - **Gameplay and interaction programming** - a simple but interactive player controller can do lots. In other words, I enjoy platformers and dislike long button combos.
@@ -15,6 +13,9 @@ Time and pressure play their role on actual projects. So, no sugarcoating about 
 
 
 When I don't code for games (or tools), I play some. My favourites inspire me to do more with them - like mod them and reference their design in my own works. Such are Super Mario 64 and Binding of Isaac, to name a few.
+
+
+My "stacks" have been mostly C#/Unity and JavaScript/NodeJS. However, many projects have demanded me to explore diverse technologies - like C++, Lua, RFID, MQTT, many APIs. *Why don't we find out together what needs to be the next of "my languages" and "my stack"?*
 
 
 Currently, I split my personal/hobby Git activities to a separate account. My internship and work experience also have a slightly different scope. If these are relevant to you, contact me at nikipanovski@gmail.com for more information!
